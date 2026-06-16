@@ -1,0 +1,6 @@
+{
+  "name": "ClimateSync",
+  "description": "A nature-inspired real-time climate and weather application with global search and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
